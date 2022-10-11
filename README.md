@@ -1,4 +1,4 @@
 # CatalogAPI-Unit Testing
 API development in Visual Studio in Data Memory / Unit Testing - XUnit
 
-- By use UnitTests in the file .rar this is.
+- By use UnitTests this in the file .rar
